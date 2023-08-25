@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  header {
+    background-color: #FF9800;
+    color: #FFF;
+    padding: 1rem 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin: 0 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
+  }
+  
+  .construcao {
+    background-color: #F5F5F5;
+    color: #333;
+    text-align: center;
+    padding: 6rem 0;
+  }
+  
+  .construcao h2 {
+    color: #2196F3;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #FFF;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
